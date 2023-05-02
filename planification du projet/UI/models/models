@@ -1,0 +1,28 @@
+    Produits 
+        $fiche produit 
+            $demander un devis 
+                form_produits
+                    informations du prospect
+                        nom
+                        email
+                        numero
+                        adresses de livreson 
+                    informations produit 
+                        ref 
+                        quantiter 
+                        caracterisiques 01
+                        caracterisiques 02
+                        caracterisiques 03
+    Services 
+        $page du servise
+            $demander un devis
+                form_servise
+                    informations du prospect
+                        nom
+                        email
+                        numero
+                        adresses 
+                    informations servise  
+                        caracterisiques 01
+                        caracterisiques 02
+                        caracterisiques 03

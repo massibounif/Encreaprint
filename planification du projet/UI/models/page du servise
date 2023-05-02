@@ -1,0 +1,42 @@
+Produits 
+   Sections :
+        Header: 
+            Over munu
+                left:
+                    contact infos 
+                        hot lign
+                        email
+                right:
+                    
+                
+            Mega menu
+                Home page
+                Servise page 
+                Contact page 
+                CTA buton: Demander un devis 
+            Secendary menu
+                
+            Hero Section 
+                Page discrition:
+                    page name: Nom du services
+                    tag line: 
+                    page discription: 
+
+        Body: 
+         Pages sections 
+            First section: presentation du servisse 
+                left:
+                right:
+            sections 02: nos traveux 
+                Gallrie de produits 
+
+            Laste section: CTA's
+                :form_servise
+                CTA:Contacter le servise client 
+        Footer:
+            SUPER Footer: 
+                section 01: Logo, Nom de l'entreprise et tag lign
+                Section 02: Liste des sercices 
+                Section 03: Liste des produit
+                Section 04: contact infos 
+            buttum footer: Copywrite infos
